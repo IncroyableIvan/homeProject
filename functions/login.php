@@ -16,6 +16,7 @@ if($user->fetch()[0] == false) {
 
   $_SESSION['loginMessage'] = 'valide';
   $_SESSION['isConnected'] = true;
+  $_SESSION['username'] = $_POST['username'];
   header('Location: ../index.php');
 }
 ?>
