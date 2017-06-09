@@ -10,7 +10,6 @@
   session_start();
   if(isset($_SESSION['loginMessage']) && !empty($_SESSION['loginMessage'])) {
     $message = $_SESSION['loginMessage'] ;
-    echo "<h2>Erreur: $message</h2>";
     $_SESSION['loginMessage'] = "";
   }
   ?>

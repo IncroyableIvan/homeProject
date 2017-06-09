@@ -92,8 +92,8 @@
         <table class="table">
           <thead>
             <tr>
-              <th>Name</th>
-              <th>Last Name</th>
+              <th>Prénom</th>
+              <th>Nom</th>
               <th>Date</th>
               <th>Heures travaillées</th>
               <th>Actions</th>
@@ -116,7 +116,6 @@
            ?>
           </tbody>
         </table>
-
       </div>
     </div>
   </div>

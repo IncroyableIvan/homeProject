@@ -85,6 +85,7 @@
                 <th>Nom</th>
                 <th>Poste</th>
                 <th>Email</th>
+                <th>Actions</th>
               </tr>
              </thead>
              <tbody>
