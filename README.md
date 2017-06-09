@@ -36,9 +36,13 @@ L'administrateur peut quitter l'application via le bouton "Logout" sité en haut
 
 
 ##Problèmes rencontrés
+
 J'ai vraiment eu du mal avec la mise en place du update et du delete
+
 J'ai toujours du mal avec le CSS, du coup j'ai utilisé Bootstrap qui m'a vraiment bien aidé
+
 Je n'ai pas réussi à mettre en place un total des heures travaillées
+
 Je n'ai pas non plus réussi à faire ne sorte de limiter les heures travaillées dans une journée à 24h
 
 ##Marche à suivre pour tester le projet
