@@ -16,7 +16,7 @@ Composée de deux tableaux :
 
 -le premier "Ajouter", permet d'ajouter et d'updater les données des employés,
 
--le deuxième "Données employés", contient l'ensemble des données des employés (id, ,
+-le deuxième "Données employés", contient l'ensemble des données des employés (id, Prénom, Nom, Poste et Mail),
 ainsi qu'un bouton "Edit" et un bouton "Delete",
 le bouton "Edit" renvoie vers le premier tableau et permet d'updater les données employés,
 le bouton "Delete" supprime simplement l'employé selectionné
@@ -27,7 +27,7 @@ Composée de deux tableaux également:
 
 -le premier "Ajouter", permet d'ajouter et d'updater les données horaires,
 
--le deuxième "Données horaires", contient l'ensemble des données horaires,
+-le deuxième "Données horaires", contient l'ensemble des données horaires (Prénom, Nom, Date et Heures travaillées),
 ainsi qu'un bouton "Edit" et un bouton "Delete",
 le bouton "Edit" renvoie vers le premier tableau et permet d'updater les données horaires,
 le bouton "Delete" supprime simplement l'horaire selectionné
